@@ -35,6 +35,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are some screenshots of the YBS Flutter App:
 
-| ![Screenshot 1](images/image.png) | ![Screenshot 2](images/image2.png) |
-|:---------------------------------:|:----------------------------------:|
-|            *Caption 1*            |            *Caption 2*             |
+| ![Screenshot 1](https://raw.githubusercontent.com/omarnasser199789/select_widget/main/images/image.png) | ![Screenshot 2](https://raw.githubusercontent.com/omarnasser199789/select_widget/main/images/image2.png) |
+|:---------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+|            *Caption 1*            |                                               *Caption 2*                                                |
